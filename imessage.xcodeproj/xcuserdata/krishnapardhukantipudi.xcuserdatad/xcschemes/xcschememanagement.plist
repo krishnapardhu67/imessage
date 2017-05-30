@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>imessage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>87497F6A1EDD07FA002CED20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>87497F811EDD07FA002CED20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>87497F8C1EDD07FA002CED20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
